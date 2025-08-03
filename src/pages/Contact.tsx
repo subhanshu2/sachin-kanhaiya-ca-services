@@ -12,7 +12,7 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Phone",
-      details: ["+91 98765 43210", "+91 87654 32109"],
+      details: ["+91 99114 31830", "+91 87000 22102"],
       description: "Available Mon-Sat, 9 AM - 7 PM"
     },
     {
@@ -24,7 +24,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Office",
-      details: ["Business District", "Mumbai, Maharashtra, India"],
+      details: ["Kalkaji", "Delhi, India - 110019"],
       description: "By appointment only"
     },
     {

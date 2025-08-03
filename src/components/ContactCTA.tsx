@@ -34,7 +34,7 @@ const ContactCTA = () => {
             <div className="flex items-center space-x-4 text-white/90">
               <div className="flex items-center space-x-2">
                 <Phone className="w-5 h-5" />
-                <span className="font-medium">+91 98765 43210</span>
+                <span className="font-medium">+91 99114 31830</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="w-5 h-5" />
